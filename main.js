@@ -3,7 +3,7 @@ var letterContent ="Hẹ hẹ thiệp kiểu này có được hem vợ iu của
 
 Anh có thể là người trẻ nhất trong bộ sưu tập của em nhưng anh sẽ cố gắng để trở thành một người có đủ sự quan tâm ấm áp khi bên em và hiểu em nhiều hơn nữa. Có là 5 năm, 10 năm anh cũng đợi em vì thực ra, chờ đợi luôn là lời tỏ tình dài nhất. Dù có thể bây giờ anh chưa thực sự khiến em cảm thấy yên tâm về tương lai, anh hiểu như thế nhưng bằng tất cả những gì anh có ở hiện tại và tương lai, anh cũng đều sẽ hướng tất cả đến em và yêu em <3 
 
-p/s: làm list những việc cần thui nhỉ  GIA ĐÌNH MINMAX :> "
+p/s: làm list những việc cần thui nhỉ GIA ĐÌNH MINMAX :> "
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
